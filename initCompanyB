@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Initialize this Container as Getting-Started Guide CompanyB"
+cp ./examples/pmodes/ex-pm-push-resp.xml ./repository/pmodes

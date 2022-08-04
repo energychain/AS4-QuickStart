@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "Sends test communication from CompanyA to CompanyB"
+mv ./data/msg_out/ex-mmd-push.accepted ./data/msg_out/ex-mmd-push.mmd
+sleep 10
+ls -al ./data/msg_in/
